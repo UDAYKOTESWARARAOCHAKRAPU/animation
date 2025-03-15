@@ -13,7 +13,6 @@ function Home() {
     >
       {/* Hero Section */}
       <div className="hero-container">
-        <div className="chakra-effect"></div>
 
         {/* Animated Heading */}
         <motion.h1
